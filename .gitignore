@@ -1,0 +1,8 @@
+cmake
+bin/
+build/
+xcode/
+out/
+
+.gdb_history
+gdbcmd
